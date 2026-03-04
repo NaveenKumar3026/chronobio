@@ -1,0 +1,2 @@
+Status: 200
+Body: {"averageEnergy":0,"averageFocus":0,"averageSleepHours":0,"performanceScore":0,"biologicalState":"No Data 🔴","recommendation":"Add more logs to generate insights"}
